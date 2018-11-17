@@ -1,5 +1,5 @@
 (defproject lisense "0.1.0-SNAPSHOT"
-  :description "Program of automatics license detection"
+  :description "Program for automatic license detection"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
